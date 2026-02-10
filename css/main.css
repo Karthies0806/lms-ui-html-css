@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+a {
+  text-decoration: none;
+  color: #3498db;
+}
+
+h1, h2, h3 {
+  margin: 0 0 10px;
+}
