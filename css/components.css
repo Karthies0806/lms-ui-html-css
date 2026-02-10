@@ -1,0 +1,29 @@
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 6px;
+  flex: 1;
+}
+
+.btn {
+  background: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.badge {
+  float: right;
+  padding: 5px 10px;
+  border-radius: 12px;
+  color: white;
+  font-size: 12px;
+}
+
+.pending {
+  background: #e74c3c;
+}
+
+.done {
+  background: #2ecc71;
+}
